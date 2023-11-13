@@ -3,3 +3,8 @@
 hw02/model.ckpt
 hw02/prediction.csv
 hw02/libriphone
+.ipynb_checkpoints/
+hw01/.ipynb_checkpoints/
+hw02/.ipynb_checkpoints/
+hw02/.ipynb_checkpoints/ML2023Spring_HW2_zdd-checkpoint.ipynb
+hw02/.ipynb_checkpoints/ML2023Spring_HW2_zdd-checkpoint.ipynb
