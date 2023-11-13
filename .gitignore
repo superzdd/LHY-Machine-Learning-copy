@@ -2,3 +2,4 @@
 *.rar
 hw02/model.ckpt
 hw02/prediction.csv
+hw02/libriphone
