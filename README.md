@@ -3,6 +3,16 @@ Copy from https://github.com/Fafa-DL/Lhy_Machine_Learning/tree/main
 
 每份作业保存在各自文件夹的ipynb中，例如hw01/ML2023Spring_HW1_zdd.ipynb
 
+## Kaggle地址
+
+https://www.kaggle.com/superzdd/code
+
+## HW02
+作业将产生两个ipynb
+- ML2023Spring_HW2_zdd.ipynb中为作业的主要内容
+- Report Questions.ipynb，将Report作业单独放入，另包含调试中的经验教训
+
+## 运行环境说明
 - 每份ipynb均支持在colab和本地jupyter lab中运行
     - 有部分代码会由于环境差异有不兼容，会在代码中有注释标记，比如：
     ```python
@@ -13,10 +23,3 @@ Copy from https://github.com/Fafa-DL/Lhy_Machine_Learning/tree/main
     ```
 - 目前kaggle的代码没法同步到github中，所以kaggle的最新内容点击下方链接进入
 
-## Kaggle
-
-https://www.kaggle.com/superzdd/code
-
-## Colab
-
-https://colab.research.google.com/drive/1Q1Rrv1JUklG0o226IVbqJ7fHwnp76SjO#scrollTo=YdttVRkAfu2t
